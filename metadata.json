@@ -1,0 +1,7 @@
+{
+  "name": "Russian Phrase Master",
+  "description": "An interactive tool to learn Russian sentences with Cyrillic text, phonetic guides, and AI-powered text-to-speech pronunciation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
